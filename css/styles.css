@@ -1,18 +1,13 @@
 * {
   text-align: center;
 }
-img.intro {
+.image {
   border-top: 5px solid black;
   border-right: 5px solid black;
   border-bottom: 5px solid black;
   border-left: 5px solid black;
-
-
 }
 
-h2.intro {
+.intro {
 color: green;
-}
-p.intro {
-color: red;
 }
